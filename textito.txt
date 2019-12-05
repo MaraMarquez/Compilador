@@ -1,0 +1,8 @@
+program suma;
+var suma: int;
+if 22 
+resultado then suma else menos;
+while
+mostrar
+do final;
+end.
